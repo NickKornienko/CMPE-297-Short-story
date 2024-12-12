@@ -4,4 +4,4 @@ Guiding Through Complexity: What Makes Good Supervision for Hard Reasoning Tasks
 
 Medium article: https://medium.com/@nick.kornienko/enhancing-ai-reasoning-with-imperfect-supervision-the-case-for-hard-task-supervision-d0511a1f1fc0
 
-Video: https://youtu.be/D9d0PXA62PI
+Video: [https://youtu.be/D9d0PXA62PI](https://youtu.be/qjqvJ3wwtko)
